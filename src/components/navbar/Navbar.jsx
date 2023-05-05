@@ -37,20 +37,20 @@ const Navbar = () => {
         </div>
         
         <Popover.Group className="hidden lg:flex lg:gap-x-12">
-        <a href="#home" className="text-base hover:text-green font-semibold leading-6 text-white" style={{ fontFamily: 'SpotifyFont' }}>
+        <a href="#home" className="text-base hover:text-greenColor font-semibold leading-6 text-white" style={{ fontFamily: 'SpotifyFont' }}>
            Premium
           </a>
-          <a href="#home" className="text-base hover:text-green font-semibold leading-6 text-white" style={{ fontFamily: 'SpotifyFont' }}>
+          <a href="#home" className="text-base hover:text-greenColor font-semibold leading-6 text-white" style={{ fontFamily: 'SpotifyFont' }}>
             Support
           </a>
-          <a href="#home" className="text-base hover:text-green font-semibold leading-6 text-white" style={{ fontFamily: 'SpotifyFont' }}>
+          <a href="#home" className="text-base hover:text-greenColor font-semibold leading-6 text-white" style={{ fontFamily: 'SpotifyFont' }}>
             Download
           </a>
           <span className=' text-white ' style={{ fontFamily: 'SpotifyFontLight' }}>|</span>
-          <a href="#home" className="text-base hover:text-green font-semibold leading-6 text-white" style={{ fontFamily: 'SpotifyFont' }}>
+          <a href="#home" className="text-base hover:text-greenColor font-semibold leading-6 text-white" style={{ fontFamily: 'SpotifyFont' }}>
             Sign Up
           </a>
-          <a href="#home" className="text-base hover:text-green font-semibold leading-6 text-white" style={{ fontFamily: 'SpotifyFont' }}>
+          <a href="#home" className="text-base hover:text-greenColor font-semibold leading-6 text-white" style={{ fontFamily: 'SpotifyFont' }}>
             Login
           </a>
         </Popover.Group>
