@@ -1,0 +1,10 @@
+.group img {
+    width: 142px;
+    height: 142px;
+}
+
+@media (max-width: 728px) {
+    .why {
+        margin-top: 50px !important;
+    }
+}

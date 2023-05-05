@@ -1,0 +1,22 @@
+.play-free {
+    height: 460px;
+    background: linear-gradient(60deg, #0000009e 0%, #101214b7 100%), url('../../assets/headphones.jpg');
+    background-size: cover;
+    object-fit: cover;
+    background-position: center;
+}
+
+.hero-text {
+    font-size: 74px;
+    line-height: 88px;
+}
+
+@media (max-width: 728px) {
+    .hero-text {
+        font-size: 2.9rem !important;
+        line-height: 60px;
+    }
+    .hero-text-container {
+        padding-top: 80px !important;
+    }
+}

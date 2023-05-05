@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: 'SpotifyFont';
+    src: url('../src/assets/fonts/CircularSpotifyText-Bold.woff') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SpotifyFontLight';
+    src: url('../src/assets/fonts/CircularSpotifyText-Light.woff') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SpotifyFontMedium';
+    src: url('../src/assets/fonts/CircularSpotifyText-Medium.woff') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
